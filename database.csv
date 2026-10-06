@@ -1,9 +1,9 @@
-Name,RollNo,Branch,Year,Hobby,Photo
-Bhoomika,24G01A43A4,AI,3rd Year,"coding,dancing,&Cooking",photos/bhoomika.jpg
-Jyothi,24G01A43B6,AI,3rd Year,learning,photos/jyothi.jpg
-Chandana,24G01A43A1,AI,3rd Year,Singing,photos/chandana.jpg
-Bhavya,24G01A43C2,AI,3rd Year,Reading,photos/bhavya.jpg
-Haripriya,24G01A3231,DS,3rd Year,Drawing,photos/haripriya.jpg
-Nimmi,24G01A43C7,AI,3rd Year,Always studying,photos/nimmi.jpg
-Madhu,24G01A4322,AI,3rd Year,Gaming,photos/madhu.jpg
-Gunasri,24G01A3223,AI,3rd Year,Music,photos/gunasri.jpg
+name,roll_no,branch,year,phone,email,photo,hobby
+Bhoomika,24G01A43A4,AI,3rd Year,1234567890,bhoomika@gmail.com,bhoomika.jpg,Coding & Dancing
+Jyothi,24G01A43B6,AI,3rd Year,0884784576,jyothi@gmail.com,jyothi.jpg,Reading Books
+Chandana,24G01A43A1,AI,3rd Year,0987654321,chandana@gmail.com,chandana.jpg,Music & Drawing
+Bhavya,24G01A43C2,AI,3rd Year,1234509876,bhavya@gmail.com,bhavya.jpg,Photography
+Haripriya,24G01A3231,DS,3rd Year,1234098765,haripriya@gmail.com,haripriya.jpg,Youtube & Vlogs
+Nimmi,24G01A43C7,AI,3rd Year,0987654123,nimmi@gmail.com,nimmi.jpg,Craft Making
+Gunasri,24G01A4322,AI,3rd Year,1234567809,gunasri@gmail.com,gunasri.jpg,Music
+Madhu,24G01A3223,DS,3rd Year,0987666555,madhu@gmail.com,madhu.jpg,Gaming
